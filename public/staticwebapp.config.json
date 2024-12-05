@@ -1,9 +1,4 @@
 {
-  "routes": [
-    {
-      "route": "/*"
-    }
-  ],
   "globalHeaders": {
     "Content-Security-Policy": "frame-src https://iframe.mediadelivery.net https://vz-348589.b-cdn.net; default-src 'self';"
   }
