@@ -5,6 +5,6 @@
     }
   ],
   "globalHeaders": {
-    "Content-Security-Policy": "frame-src https://iframe.mediadelivery.net https://vz-557ac311-ccb.b-cdn.net; default-src 'self';"
+    "Content-Security-Policy": "frame-src https://iframe.mediadelivery.net https://vz-348589.b-cdn.net; default-src 'self';"
   }
 }
