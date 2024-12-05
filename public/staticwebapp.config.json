@@ -1,0 +1,13 @@
+{
+  "$schema": "https://schema.staticwebapps.net/config/1.0.0",
+  "navigationFallback": "index.html",
+  "routes": [
+    {
+      "route": "/*",
+      "allowedOrigins": [
+        "https://vz-557ac311-ccb.b-cdn.net",
+        "https://iframe.mediadelivery.net"
+      ]
+    }
+  ]
+}
